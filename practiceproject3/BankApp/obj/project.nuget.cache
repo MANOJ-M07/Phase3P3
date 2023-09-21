@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NHjjTJ+pXr8mko1qT9u7b69HG68+qNcbJ3IAIpSz8rv8Dl63FPjkv6lu9kB6p6vg1gF20xmtF2eKi0Xlz6ZunQ==",
+  "success": true,
+  "projectFilePath": "D:\\simplilearn\\course-3\\Practiceprojects\\practiceproject-3\\practiceproject3\\BankApp\\BankApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manoj\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
